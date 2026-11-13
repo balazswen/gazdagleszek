@@ -1,0 +1,36 @@
+name: Daily ML Auto-Trainer
+
+on:
+  schedule:
+    # Minden hétköznap (H-P) 21:15 UTC-kor (magyar idő szerint 22:15-kor, USA tőzsdezárás után)
+    - cron: '15 21 * * 1-5'
+  workflow_dispatch: # Kézzel is bármikor elindítható 1 kattintással a GitHub Actions fülön
+
+permissions:
+  contents: write
+
+jobs:
+  train-and-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kód letöltése
+        uses: actions/checkout@v4
+
+      - name: Python beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Csomagok telepítése
+        run: pip install yfinance pandas numpy scikit-learn joblib
+
+      - name: Öntanuló ciklus és Naplózás futtatása
+        run: python auto_trainer.py
+
+      - name: Tanult modellek és Napló visszamentése a GitHubra
+        run: |
+          git config user.name "Auto-Quant Bot"
+          git config user.email "bot@gazdagleszek.local"
+          git add prediction_journal.json ml_models/
+          git diff --staged --quiet || git commit -m "Auto-learned ML brains & journal update"
+          git push
