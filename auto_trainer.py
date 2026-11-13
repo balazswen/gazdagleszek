@@ -78,7 +78,7 @@ def evaluate_and_train():
     portfolio = load_json(PORTFOLIO_FILE, {"holdings": {}})
 
     # Figyelt részvények összegyűjtése (Alap Watchlist + Saját Portfólió)
-    watchlist = {"NVDA", "AAPL", "MSFT", "TSLA", "META", "AMZN", "GOOGL", "AMD"}
+    watchlist = {"NVDA", "AAPL", "MSFT", "TSLA", "META", "AMZN", "GOOGL", "AMD", "SKHY", "INTC", "RHM", "TSM"}
     for sym in portfolio.get("holdings", {}).keys():
         watchlist.add(sym.upper())
 
