@@ -9,8 +9,8 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 385.29,
     "Stop-Loss": 337.78,
-    "Aktu\u00e1lis \u00c1r": 349.21,
-    "Val\u00f3s Hozam (%)": -1.6,
+    "Aktu\u00e1lis \u00c1r": 342.56,
+    "Val\u00f3s Hozam (%)": -3.47,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 59.9519,
@@ -34,8 +34,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 728.06,
     "Stop-Loss": 505.0,
-    "Aktu\u00e1lis \u00c1r": 489.19,
-    "Val\u00f3s Hozam (%)": -16.42,
+    "Aktu\u00e1lis \u00c1r": 424.39,
+    "Val\u00f3s Hozam (%)": -27.49,
     "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 57.4801,
@@ -60,9 +60,9 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 301.23,
     "Stop-Loss": 248.43,
-    "Aktu\u00e1lis \u00c1r": 257.37,
-    "Val\u00f3s Hozam (%)": -3.77,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 246.82,
+    "Val\u00f3s Hozam (%)": -7.71,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 58.1782,
       "Stoch_RSI": 85.4551,
@@ -73,7 +73,8 @@
       "Dist_SMA50_Pct": 5.0199,
       "Vol_Ratio": 0.6812,
       "Ret_5": 2.7785
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-13 13:10",
@@ -85,8 +86,8 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 335.29,
     "Stop-Loss": 278.12,
-    "Aktu\u00e1lis \u00c1r": 272.66,
-    "Val\u00f3s Hozam (%)": -8.72,
+    "Aktu\u00e1lis \u00c1r": 265.29,
+    "Val\u00f3s Hozam (%)": -11.19,
     "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 42.2819,
@@ -111,9 +112,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 690.58,
     "Stop-Loss": 585.94,
-    "Aktu\u00e1lis \u00c1r": 596.22,
-    "Val\u00f3s Hozam (%)": -4.39,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 560.84,
+    "Val\u00f3s Hozam (%)": -10.07,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 42.1198,
       "Stoch_RSI": 72.2607,
@@ -124,7 +125,8 @@
       "Dist_SMA50_Pct": -8.1675,
       "Vol_Ratio": 0.4279,
       "Ret_5": 3.0624
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-13 13:10",
@@ -136,9 +138,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 578.93,
     "Stop-Loss": 491.54,
-    "Aktu\u00e1lis \u00c1r": 498.3,
-    "Val\u00f3s Hozam (%)": -4.72,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 484.52,
+    "Val\u00f3s Hozam (%)": -7.36,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 48.4457,
       "Stoch_RSI": 34.3397,
@@ -149,7 +151,8 @@
       "Dist_SMA50_Pct": 0.8247,
       "Vol_Ratio": 0.7102,
       "Ret_5": -2.4126
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-13 13:10",
@@ -161,8 +164,8 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 200.3,
     "Stop-Loss": 147.0,
-    "Aktu\u00e1lis \u00c1r": 145.98,
-    "Val\u00f3s Hozam (%)": -12.16,
+    "Aktu\u00e1lis \u00c1r": 125.53,
+    "Val\u00f3s Hozam (%)": -24.47,
     "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 25.993,
@@ -187,9 +190,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 457.05,
     "Stop-Loss": 363.92,
-    "Aktu\u00e1lis \u00c1r": 374.41,
-    "Val\u00f3s Hozam (%)": -5.8,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 345.82,
+    "Val\u00f3s Hozam (%)": -12.99,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 56.5233,
       "Stoch_RSI": 69.8207,
@@ -200,7 +203,8 @@
       "Dist_SMA50_Pct": 6.1385,
       "Vol_Ratio": 0.7072,
       "Ret_5": 15.642
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-13 21:51",
@@ -212,8 +216,8 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 79.56,
     "Stop-Loss": 48.47,
-    "Aktu\u00e1lis \u00c1r": 55.72,
-    "Val\u00f3s Hozam (%)": -6.6,
+    "Aktu\u00e1lis \u00c1r": 51.28,
+    "Val\u00f3s Hozam (%)": -14.05,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 32.4234,
@@ -237,9 +241,9 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 155.61,
     "Stop-Loss": 108.33,
-    "Aktu\u00e1lis \u00c1r": 110.57,
-    "Val\u00f3s Hozam (%)": -11.79,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 101.19,
+    "Val\u00f3s Hozam (%)": -19.27,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 47.175,
       "Stoch_RSI": 46.9109,
@@ -250,7 +254,8 @@
       "Dist_SMA50_Pct": -8.1078,
       "Vol_Ratio": 0.5335,
       "Ret_5": 7.9673
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-13 21:51",
@@ -262,9 +267,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 167.23,
     "Stop-Loss": 111.86,
-    "Aktu\u00e1lis \u00c1r": 119.2,
-    "Val\u00f3s Hozam (%)": -9.55,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 103.57,
+    "Val\u00f3s Hozam (%)": -21.41,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 41.5861,
       "Stoch_RSI": 40.2004,
@@ -275,7 +280,8 @@
       "Dist_SMA50_Pct": -19.6421,
       "Vol_Ratio": 0.6875,
       "Ret_5": 3.4946
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-13 21:51",
@@ -287,8 +293,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 459.69,
     "Stop-Loss": 364.44,
-    "Aktu\u00e1lis \u00c1r": 352.09,
-    "Val\u00f3s Hozam (%)": -11.7,
+    "Aktu\u00e1lis \u00c1r": 318.71,
+    "Val\u00f3s Hozam (%)": -20.07,
     "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 45.2805,
@@ -313,8 +319,8 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 383.11,
     "Stop-Loss": 335.72,
-    "Aktu\u00e1lis \u00c1r": 349.21,
-    "Val\u00f3s Hozam (%)": -1.01,
+    "Aktu\u00e1lis \u00c1r": 342.56,
+    "Val\u00f3s Hozam (%)": -2.9,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 57.2284,
@@ -338,8 +344,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 657.53,
     "Stop-Loss": 418.08,
-    "Aktu\u00e1lis \u00c1r": 489.19,
-    "Val\u00f3s Hozam (%)": -2.99,
+    "Aktu\u00e1lis \u00c1r": 424.39,
+    "Val\u00f3s Hozam (%)": -15.84,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 46.7311,
@@ -363,8 +369,8 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 293.05,
     "Stop-Loss": 237.89,
-    "Aktu\u00e1lis \u00c1r": 257.37,
-    "Val\u00f3s Hozam (%)": -0.15,
+    "Aktu\u00e1lis \u00c1r": 246.82,
+    "Val\u00f3s Hozam (%)": -4.24,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 49.6298,
@@ -388,8 +394,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 323.14,
     "Stop-Loss": 261.54,
-    "Aktu\u00e1lis \u00c1r": 272.66,
-    "Val\u00f3s Hozam (%)": -3.9,
+    "Aktu\u00e1lis \u00c1r": 265.29,
+    "Val\u00f3s Hozam (%)": -6.5,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 34.4552,
@@ -413,9 +419,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 75.43,
     "Stop-Loss": 44.24,
-    "Aktu\u00e1lis \u00c1r": 55.72,
-    "Val\u00f3s Hozam (%)": 0.45,
-    "St\u00e1tusz": "Nyitott (+)",
+    "Aktu\u00e1lis \u00c1r": 51.28,
+    "Val\u00f3s Hozam (%)": -7.55,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 29.8741,
       "Stoch_RSI": 37.9657,
@@ -438,9 +444,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 695.81,
     "Stop-Loss": 587.37,
-    "Aktu\u00e1lis \u00c1r": 596.22,
-    "Val\u00f3s Hozam (%)": -4.82,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 560.84,
+    "Val\u00f3s Hozam (%)": -10.47,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 43.8812,
       "Stoch_RSI": 77.0915,
@@ -451,7 +457,8 @@
       "Dist_SMA50_Pct": -7.8681,
       "Vol_Ratio": 0.4875,
       "Ret_5": -2.3325
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-16 21:53",
@@ -463,9 +470,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 575.25,
     "Stop-Loss": 485.78,
-    "Aktu\u00e1lis \u00c1r": 498.3,
-    "Val\u00f3s Hozam (%)": -3.8,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 484.52,
+    "Val\u00f3s Hozam (%)": -6.46,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 46.3741,
       "Stoch_RSI": 25.7772,
@@ -476,7 +483,8 @@
       "Dist_SMA50_Pct": -0.2644,
       "Vol_Ratio": 1.102,
       "Ret_5": -4.9873
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-16 21:53",
@@ -488,9 +496,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 192.35,
     "Stop-Loss": 135.77,
-    "Aktu\u00e1lis \u00c1r": 145.98,
-    "Val\u00f3s Hozam (%)": -6.51,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 125.53,
+    "Val\u00f3s Hozam (%)": -19.6,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 22.7165,
       "Stoch_RSI": 0.0,
@@ -501,7 +509,8 @@
       "Dist_SMA50_Pct": -26.7474,
       "Vol_Ratio": 1.4836,
       "Ret_5": -12.6098
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-16 21:53",
@@ -513,9 +522,9 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 149.53,
     "Stop-Loss": 101.97,
-    "Aktu\u00e1lis \u00c1r": 110.57,
-    "Val\u00f3s Hozam (%)": -7.15,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 101.19,
+    "Val\u00f3s Hozam (%)": -15.03,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 42.7079,
       "Stoch_RSI": 24.4904,
@@ -526,7 +535,8 @@
       "Dist_SMA50_Pct": -12.1935,
       "Vol_Ratio": 0.4782,
       "Ret_5": -0.5844
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-16 21:53",
@@ -538,8 +548,8 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 158.89,
     "Stop-Loss": 101.53,
-    "Aktu\u00e1lis \u00c1r": 119.2,
-    "Val\u00f3s Hozam (%)": -2.44,
+    "Aktu\u00e1lis \u00c1r": 103.57,
+    "Val\u00f3s Hozam (%)": -15.23,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 37.586,
@@ -563,9 +573,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 437.35,
     "Stop-Loss": 347.33,
-    "Aktu\u00e1lis \u00c1r": 374.41,
-    "Val\u00f3s Hozam (%)": -1.4,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 345.82,
+    "Val\u00f3s Hozam (%)": -8.93,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 49.4591,
       "Stoch_RSI": 49.1339,
@@ -576,7 +586,8 @@
       "Dist_SMA50_Pct": 1.1955,
       "Vol_Ratio": 0.76,
       "Ret_5": 0.447
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-16 21:53",
@@ -588,9 +599,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 437.17,
     "Stop-Loss": 337.61,
-    "Aktu\u00e1lis \u00c1r": 352.09,
-    "Val\u00f3s Hozam (%)": -5.72,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 318.71,
+    "Val\u00f3s Hozam (%)": -14.66,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 38.705,
       "Stoch_RSI": 48.1311,
@@ -601,7 +612,8 @@
       "Dist_SMA50_Pct": -12.9209,
       "Vol_Ratio": 1.2948,
       "Ret_5": -3.9036
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-17 21:57",
@@ -613,8 +625,8 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 382.71,
     "Stop-Loss": 334.58,
-    "Aktu\u00e1lis \u00c1r": 349.21,
-    "Val\u00f3s Hozam (%)": -0.77,
+    "Aktu\u00e1lis \u00c1r": 342.56,
+    "Val\u00f3s Hozam (%)": -2.66,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 56.3163,
@@ -638,8 +650,8 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 659.5,
     "Stop-Loss": 415.61,
-    "Aktu\u00e1lis \u00c1r": 489.19,
-    "Val\u00f3s Hozam (%)": -2.82,
+    "Aktu\u00e1lis \u00c1r": 424.39,
+    "Val\u00f3s Hozam (%)": -15.7,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 46.6255,
@@ -663,8 +675,8 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 293.77,
     "Stop-Loss": 237.71,
-    "Aktu\u00e1lis \u00c1r": 257.37,
-    "Val\u00f3s Hozam (%)": -0.2,
+    "Aktu\u00e1lis \u00c1r": 246.82,
+    "Val\u00f3s Hozam (%)": -4.29,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 49.7454,
@@ -688,8 +700,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 319.58,
     "Stop-Loss": 258.05,
-    "Aktu\u00e1lis \u00c1r": 272.66,
-    "Val\u00f3s Hozam (%)": -2.69,
+    "Aktu\u00e1lis \u00c1r": 265.29,
+    "Val\u00f3s Hozam (%)": -5.32,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 32.8926,
@@ -713,9 +725,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 75.21,
     "Stop-Loss": 43.9,
-    "Aktu\u00e1lis \u00c1r": 55.72,
-    "Val\u00f3s Hozam (%)": 1.0,
-    "St\u00e1tusz": "Nyitott (+)",
+    "Aktu\u00e1lis \u00c1r": 51.28,
+    "Val\u00f3s Hozam (%)": -7.05,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 29.6941,
       "Stoch_RSI": 43.6255,
@@ -738,9 +750,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 687.94,
     "Stop-Loss": 580.02,
-    "Aktu\u00e1lis \u00c1r": 596.22,
-    "Val\u00f3s Hozam (%)": -3.66,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 560.84,
+    "Val\u00f3s Hozam (%)": -9.38,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 42.0484,
       "Stoch_RSI": 64.1776,
@@ -751,7 +763,8 @@
       "Dist_SMA50_Pct": -8.9928,
       "Vol_Ratio": 0.5396,
       "Ret_5": -3.5111
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-17 21:57",
@@ -763,8 +776,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 566.38,
     "Stop-Loss": 472.41,
-    "Aktu\u00e1lis \u00c1r": 498.3,
-    "Val\u00f3s Hozam (%)": -1.57,
+    "Aktu\u00e1lis \u00c1r": 484.52,
+    "Val\u00f3s Hozam (%)": -4.29,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 41.8623,
@@ -788,9 +801,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 192.25,
     "Stop-Loss": 134.77,
-    "Aktu\u00e1lis \u00c1r": 145.98,
-    "Val\u00f3s Hozam (%)": -6.1,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 125.53,
+    "Val\u00f3s Hozam (%)": -19.25,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 22.5048,
       "Stoch_RSI": 0.0,
@@ -801,7 +814,8 @@
       "Dist_SMA50_Pct": -26.5841,
       "Vol_Ratio": 1.4769,
       "Ret_5": -7.9519
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-17 21:57",
@@ -813,8 +827,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 142.65,
     "Stop-Loss": 99.45,
-    "Aktu\u00e1lis \u00c1r": 110.57,
-    "Val\u00f3s Hozam (%)": -3.85,
+    "Aktu\u00e1lis \u00c1r": 101.19,
+    "Val\u00f3s Hozam (%)": -12.01,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 40.0401,
@@ -838,9 +852,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 156.29,
     "Stop-Loss": 103.67,
-    "Aktu\u00e1lis \u00c1r": 119.2,
-    "Val\u00f3s Hozam (%)": -2.78,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 103.57,
+    "Val\u00f3s Hozam (%)": -15.53,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 37.874,
       "Stoch_RSI": 22.6789,
@@ -851,7 +865,8 @@
       "Dist_SMA50_Pct": -24.1503,
       "Vol_Ratio": 0.6274,
       "Ret_5": -5.4373
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-17 21:57",
@@ -863,9 +878,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 436.58,
     "Stop-Loss": 348.34,
-    "Aktu\u00e1lis \u00c1r": 374.41,
-    "Val\u00f3s Hozam (%)": -1.5,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 345.82,
+    "Val\u00f3s Hozam (%)": -9.02,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 49.605,
       "Stoch_RSI": 50.6724,
@@ -876,7 +891,8 @@
       "Dist_SMA50_Pct": 1.2296,
       "Vol_Ratio": 0.5637,
       "Ret_5": 0.0869
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-17 21:57",
@@ -888,9 +904,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 427.04,
     "Stop-Loss": 321.8,
-    "Aktu\u00e1lis \u00c1r": 352.09,
-    "Val\u00f3s Hozam (%)": -2.11,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 318.71,
+    "Val\u00f3s Hozam (%)": -11.39,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 35.6688,
       "Stoch_RSI": 39.7184,
@@ -901,7 +917,8 @@
       "Dist_SMA50_Pct": -15.8226,
       "Vol_Ratio": 1.5618,
       "Ret_5": -9.2792
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -913,8 +930,8 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 382.65,
     "Stop-Loss": 335.46,
-    "Aktu\u00e1lis \u00c1r": 349.21,
-    "Val\u00f3s Hozam (%)": -0.92,
+    "Aktu\u00e1lis \u00c1r": 342.56,
+    "Val\u00f3s Hozam (%)": -2.81,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 56.7768,
@@ -938,9 +955,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 690.66,
     "Stop-Loss": 439.85,
-    "Aktu\u00e1lis \u00c1r": 489.19,
-    "Val\u00f3s Hozam (%)": -7.72,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 424.39,
+    "Val\u00f3s Hozam (%)": -19.95,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 50.3386,
       "Stoch_RSI": 74.2481,
@@ -951,7 +968,8 @@
       "Dist_SMA50_Pct": -4.5172,
       "Vol_Ratio": 0.8908,
       "Ret_5": -4.1165
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -963,9 +981,9 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 302.94,
     "Stop-Loss": 247.94,
-    "Aktu\u00e1lis \u00c1r": 257.37,
-    "Val\u00f3s Hozam (%)": -3.87,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 246.82,
+    "Val\u00f3s Hozam (%)": -7.81,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 57.1873,
       "Stoch_RSI": 81.2032,
@@ -976,7 +994,8 @@
       "Dist_SMA50_Pct": 4.946,
       "Vol_Ratio": 0.802,
       "Ret_5": 0.5898
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -988,9 +1007,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 312.85,
     "Stop-Loss": 265.34,
-    "Aktu\u00e1lis \u00c1r": 272.66,
-    "Val\u00f3s Hozam (%)": -3.46,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 265.29,
+    "Val\u00f3s Hozam (%)": -6.07,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 34.9154,
       "Stoch_RSI": 65.102,
@@ -1001,7 +1020,8 @@
       "Dist_SMA50_Pct": -13.0856,
       "Vol_Ratio": 0.6394,
       "Ret_5": -3.7519
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -1013,9 +1033,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 74.23,
     "Stop-Loss": 43.67,
-    "Aktu\u00e1lis \u00c1r": 55.72,
-    "Val\u00f3s Hozam (%)": 1.92,
-    "St\u00e1tusz": "Nyitott (+)",
+    "Aktu\u00e1lis \u00c1r": 51.28,
+    "Val\u00f3s Hozam (%)": -6.2,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 29.3764,
       "Stoch_RSI": 64.5473,
@@ -1038,9 +1058,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 682.78,
     "Stop-Loss": 579.03,
-    "Aktu\u00e1lis \u00c1r": 596.22,
-    "Val\u00f3s Hozam (%)": -3.27,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 560.84,
+    "Val\u00f3s Hozam (%)": -9.01,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 41.433,
       "Stoch_RSI": 60.3457,
@@ -1051,7 +1071,8 @@
       "Dist_SMA50_Pct": -9.2608,
       "Vol_Ratio": 0.4597,
       "Ret_5": -1.9705
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -1063,8 +1084,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 565.61,
     "Stop-Loss": 476.05,
-    "Aktu\u00e1lis \u00c1r": 498.3,
-    "Val\u00f3s Hozam (%)": -1.97,
+    "Aktu\u00e1lis \u00c1r": 484.52,
+    "Val\u00f3s Hozam (%)": -4.68,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 42.906,
@@ -1088,9 +1109,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 189.12,
     "Stop-Loss": 129.5,
-    "Aktu\u00e1lis \u00c1r": 145.98,
-    "Val\u00f3s Hozam (%)": -3.3,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 125.53,
+    "Val\u00f3s Hozam (%)": -16.85,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 21.1031,
       "Stoch_RSI": 0.0,
@@ -1101,7 +1122,8 @@
       "Dist_SMA50_Pct": -28.2179,
       "Vol_Ratio": 1.3604,
       "Ret_5": -13.1065
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -1113,8 +1135,8 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 140.66,
     "Stop-Loss": 98.83,
-    "Aktu\u00e1lis \u00c1r": 110.57,
-    "Val\u00f3s Hozam (%)": -2.92,
+    "Aktu\u00e1lis \u00c1r": 101.19,
+    "Val\u00f3s Hozam (%)": -11.15,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 39.3222,
@@ -1138,8 +1160,8 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 156.17,
     "Stop-Loss": 103.51,
-    "Aktu\u00e1lis \u00c1r": 119.2,
-    "Val\u00f3s Hozam (%)": -2.67,
+    "Aktu\u00e1lis \u00c1r": 103.57,
+    "Val\u00f3s Hozam (%)": -15.43,
     "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 37.8128,
@@ -1163,9 +1185,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 441.21,
     "Stop-Loss": 351.38,
-    "Aktu\u00e1lis \u00c1r": 374.41,
-    "Val\u00f3s Hozam (%)": -2.43,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 345.82,
+    "Val\u00f3s Hozam (%)": -9.88,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 51.0893,
       "Stoch_RSI": 57.3273,
@@ -1176,7 +1198,8 @@
       "Dist_SMA50_Pct": 2.1045,
       "Vol_Ratio": 0.7079,
       "Ret_5": -1.8217
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-18 21:56",
@@ -1188,9 +1211,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 430.2,
     "Stop-Loss": 324.61,
-    "Aktu\u00e1lis \u00c1r": 352.09,
-    "Val\u00f3s Hozam (%)": -2.9,
-    "St\u00e1tusz": "Nyitott (-)",
+    "Aktu\u00e1lis \u00c1r": 318.71,
+    "Val\u00f3s Hozam (%)": -12.11,
+    "St\u00e1tusz": "SIKERTELEN (Stop-Loss)",
     "Features": {
       "RSI": 36.8055,
       "Stoch_RSI": 44.6251,
@@ -1201,7 +1224,8 @@
       "Dist_SMA50_Pct": -14.8517,
       "Vol_Ratio": 0.7695,
       "Ret_5": -12.2729
-    }
+    },
+    "Target_Outcome": 0
   },
   {
     "D\u00e1tum": "2026-11-19 21:55",
@@ -1213,9 +1237,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 378.03,
     "Stop-Loss": 333.0,
-    "Aktu\u00e1lis \u00c1r": 349.21,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 342.56,
+    "Val\u00f3s Hozam (%)": -1.9,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 53.156,
       "Stoch_RSI": 59.6487,
@@ -1238,9 +1262,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 652.05,
     "Stop-Loss": 397.58,
-    "Aktu\u00e1lis \u00c1r": 489.19,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 424.39,
+    "Val\u00f3s Hozam (%)": -13.25,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 45.1559,
       "Stoch_RSI": 55.5594,
@@ -1263,9 +1287,9 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 293.21,
     "Stop-Loss": 237.21,
-    "Aktu\u00e1lis \u00c1r": 257.37,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 246.82,
+    "Val\u00f3s Hozam (%)": -4.1,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 48.9661,
       "Stoch_RSI": 28.8345,
@@ -1288,9 +1312,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 306.76,
     "Stop-Loss": 253.48,
-    "Aktu\u00e1lis \u00c1r": 272.66,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 265.29,
+    "Val\u00f3s Hozam (%)": -2.7,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 30.5811,
       "Stoch_RSI": 44.5686,
@@ -1313,9 +1337,9 @@
     "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
     "C\u00e9l\u00e1r": 69.77,
     "Stop-Loss": 47.82,
-    "Aktu\u00e1lis \u00c1r": 55.72,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 51.28,
+    "Val\u00f3s Hozam (%)": -7.97,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 31.045,
       "Stoch_RSI": 76.8109,
@@ -1338,9 +1362,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 666.73,
     "Stop-Loss": 556.56,
-    "Aktu\u00e1lis \u00c1r": 596.22,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 560.84,
+    "Val\u00f3s Hozam (%)": -5.93,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 36.7438,
       "Stoch_RSI": 31.15,
@@ -1363,9 +1387,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 558.48,
     "Stop-Loss": 464.45,
-    "Aktu\u00e1lis \u00c1r": 498.3,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 484.52,
+    "Val\u00f3s Hozam (%)": -2.77,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 39.2118,
       "Stoch_RSI": 0.0,
@@ -1388,9 +1412,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 184.06,
     "Stop-Loss": 124.56,
-    "Aktu\u00e1lis \u00c1r": 145.98,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 125.53,
+    "Val\u00f3s Hozam (%)": -14.01,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 19.6448,
       "Stoch_RSI": 0.0,
@@ -1413,9 +1437,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 136.81,
     "Stop-Loss": 95.81,
-    "Aktu\u00e1lis \u00c1r": 110.57,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 101.19,
+    "Val\u00f3s Hozam (%)": -8.48,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 37.1753,
       "Stoch_RSI": 0.0,
@@ -1438,9 +1462,9 @@
     "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
     "C\u00e9l\u00e1r": 151.94,
     "Stop-Loss": 100.79,
-    "Aktu\u00e1lis \u00c1r": 119.2,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 103.57,
+    "Val\u00f3s Hozam (%)": -13.11,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 36.3367,
       "Stoch_RSI": 19.5889,
@@ -1463,9 +1487,9 @@
     "Aj\u00e1nl\u00e1s": "TART\u00c1S",
     "C\u00e9l\u00e1r": 433.29,
     "Stop-Loss": 341.29,
-    "Aktu\u00e1lis \u00c1r": 374.41,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 345.82,
+    "Val\u00f3s Hozam (%)": -7.64,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 47.2263,
       "Stoch_RSI": 42.8342,
@@ -1488,9 +1512,9 @@
     "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
     "C\u00e9l\u00e1r": 417.83,
     "Stop-Loss": 315.11,
-    "Aktu\u00e1lis \u00c1r": 352.09,
-    "Val\u00f3s Hozam (%)": 0.0,
-    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Aktu\u00e1lis \u00c1r": 318.71,
+    "Val\u00f3s Hozam (%)": -9.48,
+    "St\u00e1tusz": "Nyitott (-)",
     "Features": {
       "RSI": 34.4495,
       "Stoch_RSI": 34.4557,
@@ -1501,6 +1525,306 @@
       "Dist_SMA50_Pct": -17.0328,
       "Vol_Ratio": 1.1353,
       "Ret_5": -13.1693
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "AAPL",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 342.56,
+    "Quant Pont": 61,
+    "ML Es\u00e9ly (%)": 61.4,
+    "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
+    "C\u00e9l\u00e1r": 372.51,
+    "Stop-Loss": 325.71,
+    "Aktu\u00e1lis \u00c1r": 342.56,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 46.589,
+      "Stoch_RSI": 25.4424,
+      "MACD_Hist": -0.7357,
+      "ADX": 16.4292,
+      "BB_Width": 7.1284,
+      "Dist_SMA20_Pct": -1.3667,
+      "Dist_SMA50_Pct": 0.2854,
+      "Vol_Ratio": 1.5991,
+      "Ret_5": -3.8482
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "AMD",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 424.39,
+    "Quant Pont": 88,
+    "ML Es\u00e9ly (%)": 87.7,
+    "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
+    "C\u00e9l\u00e1r": 592.66,
+    "Stop-Loss": 329.74,
+    "Aktu\u00e1lis \u00c1r": 424.39,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 38.4158,
+      "Stoch_RSI": 31.2544,
+      "MACD_Hist": -3.4688,
+      "ADX": 17.8831,
+      "BB_Width": 38.2728,
+      "Dist_SMA20_Pct": -16.6361,
+      "Dist_SMA50_Pct": -23.2703,
+      "Vol_Ratio": 1.6392,
+      "Ret_5": -20.5351
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "AMZN",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 246.82,
+    "Quant Pont": 58,
+    "ML Es\u00e9ly (%)": 57.8,
+    "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
+    "C\u00e9l\u00e1r": 282.94,
+    "Stop-Loss": 226.5,
+    "Aktu\u00e1lis \u00c1r": 246.82,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 42.3032,
+      "Stoch_RSI": 0.0,
+      "MACD_Hist": -1.0432,
+      "ADX": 10.9602,
+      "BB_Width": 14.2405,
+      "Dist_SMA20_Pct": -4.1183,
+      "Dist_SMA50_Pct": -3.22,
+      "Vol_Ratio": 1.3648,
+      "Ret_5": -7.4402
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "GOOGL",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 265.29,
+    "Quant Pont": 72,
+    "ML Es\u00e9ly (%)": 71.8,
+    "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
+    "C\u00e9l\u00e1r": 301.84,
+    "Stop-Loss": 244.73,
+    "Aktu\u00e1lis \u00c1r": 265.29,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 27.7822,
+      "Stoch_RSI": 27.9385,
+      "MACD_Hist": -0.5318,
+      "ADX": 23.6524,
+      "BB_Width": 21.3744,
+      "Dist_SMA20_Pct": -8.3467,
+      "Dist_SMA50_Pct": -17.6886,
+      "Vol_Ratio": 1.2564,
+      "Ret_5": -10.3053
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "INTC",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 51.28,
+    "Quant Pont": 54,
+    "ML Es\u00e9ly (%)": 53.9,
+    "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
+    "C\u00e9l\u00e1r": 65.1,
+    "Stop-Loss": 43.5,
+    "Aktu\u00e1lis \u00c1r": 51.28,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 28.0292,
+      "Stoch_RSI": 54.6465,
+      "MACD_Hist": 0.368,
+      "ADX": 42.4539,
+      "BB_Width": 91.2548,
+      "Dist_SMA20_Pct": -20.9898,
+      "Dist_SMA50_Pct": -43.1638,
+      "Vol_Ratio": 1.3318,
+      "Ret_5": -14.0463
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "META",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 560.84,
+    "Quant Pont": 70,
+    "ML Es\u00e9ly (%)": 70.4,
+    "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
+    "C\u00e9l\u00e1r": 636.45,
+    "Stop-Loss": 518.31,
+    "Aktu\u00e1lis \u00c1r": 560.84,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 30.2693,
+      "Stoch_RSI": 0.0,
+      "MACD_Hist": -2.9912,
+      "ADX": 25.0148,
+      "BB_Width": 11.8353,
+      "Dist_SMA20_Pct": -9.332,
+      "Dist_SMA50_Pct": -17.1092,
+      "Vol_Ratio": 1.1681,
+      "Ret_5": -12.5995
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "MSFT",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 484.52,
+    "Quant Pont": 41,
+    "ML Es\u00e9ly (%)": 41.5,
+    "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
+    "C\u00e9l\u00e1r": 544.18,
+    "Stop-Loss": 450.96,
+    "Aktu\u00e1lis \u00c1r": 484.52,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 35.0152,
+      "Stoch_RSI": 0.0,
+      "MACD_Hist": -5.1681,
+      "ADX": 18.186,
+      "BB_Width": 12.3184,
+      "Dist_SMA20_Pct": -7.1877,
+      "Dist_SMA50_Pct": -6.6206,
+      "Vol_Ratio": 1.4549,
+      "Ret_5": -7.3345
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "NVDA",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 125.53,
+    "Quant Pont": 1,
+    "ML Es\u00e9ly (%)": 0.8,
+    "Aj\u00e1nl\u00e1s": "ELAD\u00c1S",
+    "C\u00e9l\u00e1r": 166.62,
+    "Stop-Loss": 102.42,
+    "Aktu\u00e1lis \u00c1r": 125.53,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 15.0466,
+      "Stoch_RSI": 0.0,
+      "MACD_Hist": -4.6302,
+      "ADX": 50.6448,
+      "BB_Width": 60.1024,
+      "Dist_SMA20_Pct": -30.8211,
+      "Dist_SMA50_Pct": -39.3576,
+      "Vol_Ratio": 2.1278,
+      "Ret_5": -22.9168
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "ORCL",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 101.19,
+    "Quant Pont": 62,
+    "ML Es\u00e9ly (%)": 61.8,
+    "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
+    "C\u00e9l\u00e1r": 126.99,
+    "Stop-Loss": 86.68,
+    "Aktu\u00e1lis \u00c1r": 101.19,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 31.8793,
+      "Stoch_RSI": 0.0,
+      "MACD_Hist": -1.4658,
+      "ADX": 15.8713,
+      "BB_Width": 32.4067,
+      "Dist_SMA20_Pct": -17.3996,
+      "Dist_SMA50_Pct": -23.3058,
+      "Vol_Ratio": 1.0402,
+      "Ret_5": -19.274
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "SKHY",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 103.57,
+    "Quant Pont": 63,
+    "ML Es\u00e9ly (%)": 63.3,
+    "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
+    "C\u00e9l\u00e1r": 138.02,
+    "Stop-Loss": 84.19,
+    "Aktu\u00e1lis \u00c1r": 103.57,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 30.2566,
+      "Stoch_RSI": 0.0,
+      "MACD_Hist": -1.8843,
+      "ADX": 25.8647,
+      "BB_Width": 44.8524,
+      "Dist_SMA20_Pct": -23.9186,
+      "Dist_SMA50_Pct": -34.0375,
+      "Vol_Ratio": 1.5289,
+      "Ret_5": -21.4129
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "TSLA",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 345.82,
+    "Quant Pont": 57,
+    "ML Es\u00e9ly (%)": 57.2,
+    "Aj\u00e1nl\u00e1s": "V\u00c9TEL",
+    "C\u00e9l\u00e1r": 407.78,
+    "Stop-Loss": 310.97,
+    "Aktu\u00e1lis \u00c1r": 345.82,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 37.7792,
+      "Stoch_RSI": 8.489,
+      "MACD_Hist": -3.4862,
+      "ADX": 11.7458,
+      "BB_Width": 19.1135,
+      "Dist_SMA20_Pct": -10.1296,
+      "Dist_SMA50_Pct": -7.9374,
+      "Vol_Ratio": 1.2148,
+      "Ret_5": -11.3782
+    }
+  },
+  {
+    "D\u00e1tum": "2026-11-20 21:53",
+    "Ticker": "TSM",
+    "Id\u0151t\u00e1v": "1d",
+    "R\u00f6gz\u00edtett \u00c1r": 318.71,
+    "Quant Pont": 74,
+    "ML Es\u00e9ly (%)": 74.1,
+    "Aj\u00e1nl\u00e1s": "ER\u0150S V\u00c9TEL",
+    "C\u00e9l\u00e1r": 388.37,
+    "Stop-Loss": 279.53,
+    "Aktu\u00e1lis \u00c1r": 318.71,
+    "Val\u00f3s Hozam (%)": 0.0,
+    "St\u00e1tusz": "Folyamatban (Auto)",
+    "Features": {
+      "RSI": 28.2713,
+      "Stoch_RSI": 7.789,
+      "MACD_Hist": -5.8482,
+      "ADX": 33.9895,
+      "BB_Width": 32.3211,
+      "Dist_SMA20_Pct": -18.6512,
+      "Dist_SMA50_Pct": -24.4951,
+      "Vol_Ratio": 2.1455,
+      "Ret_5": -20.0687
     }
   }
 ]
